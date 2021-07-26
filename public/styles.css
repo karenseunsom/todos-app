@@ -1,0 +1,13 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.edit-field {
+    border: none;
+    background: none;
+    text-decoration: inherit;
+}
+
+body {
+    background-color: #f3fff1;
+}
